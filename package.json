@@ -1,0 +1,1 @@
+{"name":"brawl-arena-sakura-online","version":"1.1.0","description":"Brawl Arena Sakura Online server","main":"server/server.js","scripts":{"start":"node server/server.js"},"engines":{"node":">=16"}}
