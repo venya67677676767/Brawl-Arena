@@ -1,0 +1,6 @@
+{
+  "appId": "com.brawlarena.sakura",
+  "appName": "Brawl Arena Sakura",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
