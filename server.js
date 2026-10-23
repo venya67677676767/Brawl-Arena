@@ -7,7 +7,7 @@ const path = require('path');
 const crypto = require('crypto');
 
 const PORT = process.env.PORT || 3000;
-const ROOT = path.normalize(__dirname + '/..');
+const ROOT = __dirname;
 const DBF = __dirname + '/db.json';
 
 let DB = { users: {}, tokens: {} };
